@@ -1,0 +1,13 @@
+body {
+	font-family: Garamond;
+	margin: 0;
+}
+
+.main {
+	flex: 70%;
+	padding: 20px;
+	background: rgb(7, 37, 75);
+	text-align: center;
+	color: aliceblue;
+	font-weight: bold;
+}
